@@ -1,7 +1,7 @@
 # Data Warehouse and Analytics Project
 
 Welcome to the **Data Warehouse and Analytics Project** repository! ✨
-This project demonstrates a comprehensive data warehousing and analytics solution, built with on a medallion architecture and finished with actionable insights. 
+This project demonstrates a comprehensive data warehousing and analytics solution, built with a medallion architecture and finished with actionable insights. 
 
 ---
 
